@@ -42,6 +42,10 @@ const items = [
     value: "about"
   },
   {
+    title: "Blog",
+    value: "blog"
+  },
+  {
     title: "API",
     value: "api"
   }
